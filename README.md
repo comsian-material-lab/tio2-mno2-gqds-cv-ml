@@ -240,16 +240,15 @@ If you use this code or data, please cite the archived release:
   title     = {tio2-mno2-gqds-cv-ml},
   version   = {v1.0.0},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.XXXXXXX},
-  url       = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi       = {10.5281/zenodo.23309189},
+  url       = {[(https://doi.org/10.5281/zenodo.23309188)}
 }
 ```
 
-> Replace `XXXXXXX` with your Zenodo record number after the first release.
 
 ## License and contact
 
-Code: MIT License. Data: CC BY 4.0 (if you allow reuse).
+Code: MIT License. Data: CC BY 4.0.
 
 Safi Ullah Majid
 Comsat's University Islamabad
