@@ -251,4 +251,6 @@ If you use this code or data, please cite the archived release:
 
 Code: MIT License. Data: CC BY 4.0 (if you allow reuse).
 
-[Name] · [Institution] · [email]
+Safi Ullah Majid
+Comsat's University Islamabad
+Safeullahmajid@gmail.com
